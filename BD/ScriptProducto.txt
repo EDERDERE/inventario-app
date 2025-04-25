@@ -1,0 +1,7 @@
+CREATE TABLE Producto (
+    Id INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    Nombre VARCHAR2(50) NOT NULL,
+    Descripcion VARCHAR2(255),
+    Precio NUMBER(10, 2) NOT NULL,
+    Cantidad INT NOT NULL
+);

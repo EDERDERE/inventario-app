@@ -1,0 +1,63 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ebug/
+[Dd]ist/
+bin/
+obj/
+
+# User-specific files
+.vs/
+.idea/
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer logs
+*.cab
+*.msi
+
+# Windows Installer Files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# User-specific files
+.vsconfig
+
+# Windows Installer logs
+*.cab
+*.msi
+
+# npm and node modules
+node_modules/
+
+# JetBrains Rider
+.idea/
+
+# ASP.NET 5.x Configuration
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# .NET Core
+project.json
+project.lock.json
+
+# VS Code settings
+.vscode/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates

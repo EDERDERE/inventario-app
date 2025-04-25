@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestión de Inventario</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Gestión de Inventario</h1>
+
+        <!-- Formulario para agregar o editar productos -->
+        <form id="productForm">
+            <input type="hidden" id="productId" />
+            <label for="nombre">Nombre</label>
+            <input type="text" id="nombre" required />
+
+            <label for="precio">Precio</label>
+            <input type="number" id="precio" required min="0.01" step="0.01" />
+
+            <label for="cantidad">Cantidad</label>
+            <input type="number" id="cantidad" required min="1" />
+
+            <button type="submit">Guardar Producto</button>
+        </form>
+
+        <h2>Lista de Productos</h2>
+        <table id="productList">
+            <thead>
+                <tr>
+                    <th>Nombre</th>
+                    <th>Precio</th>
+                    <th>Cantidad</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Aquí se cargarán los productos -->
+            </tbody>
+        </table>
+    </div>
+	<script src="~/js/inventario.js"></script>   
+</body>
+</html>

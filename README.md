@@ -1,4 +1,5 @@
-# Inventario App
+
+# Inventario App V2
 
 **Inventario App** es una aplicación de gestión de inventarios que permite administrar productos de manera eficiente, visualizando información detallada sobre cada uno, como su nombre, descripción, precio y cantidad disponible. Está construida utilizando la arquitectura MVC en .NET y se conecta a una base de datos Oracle para el almacenamiento de la información.
 
@@ -28,5 +29,5 @@ Asegúrate de instalar todas las dependencias necesarias antes de ejecutar la ap
 
 Primero, clona el repositorio en tu máquina local utilizando Git. Abre tu terminal o consola y ejecuta el siguiente comando:
 
-```bash
 git clone https://github.com/EDERDERE/inventario-app.git
+

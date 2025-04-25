@@ -1,0 +1,12 @@
+C:\Users\DERE\source\repos\OPTIMUS\ServicioExterno\bin\Debug\net6.0\ServicioExterno.deps.json
+C:\Users\DERE\source\repos\OPTIMUS\ServicioExterno\bin\Debug\net6.0\ServicioExterno.dll
+C:\Users\DERE\source\repos\OPTIMUS\ServicioExterno\bin\Debug\net6.0\ServicioExterno.pdb
+C:\Users\DERE\source\repos\OPTIMUS\ServicioExterno\obj\Debug\net6.0\ServicioExterno.csproj.AssemblyReference.cache
+C:\Users\DERE\source\repos\OPTIMUS\ServicioExterno\obj\Debug\net6.0\ServicioExterno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DERE\source\repos\OPTIMUS\ServicioExterno\obj\Debug\net6.0\ServicioExterno.AssemblyInfoInputs.cache
+C:\Users\DERE\source\repos\OPTIMUS\ServicioExterno\obj\Debug\net6.0\ServicioExterno.AssemblyInfo.cs
+C:\Users\DERE\source\repos\OPTIMUS\ServicioExterno\obj\Debug\net6.0\ServicioExterno.csproj.CoreCompileInputs.cache
+C:\Users\DERE\source\repos\OPTIMUS\ServicioExterno\obj\Debug\net6.0\ServicioExterno.dll
+C:\Users\DERE\source\repos\OPTIMUS\ServicioExterno\obj\Debug\net6.0\refint\ServicioExterno.dll
+C:\Users\DERE\source\repos\OPTIMUS\ServicioExterno\obj\Debug\net6.0\ServicioExterno.pdb
+C:\Users\DERE\source\repos\OPTIMUS\ServicioExterno\obj\Debug\net6.0\ref\ServicioExterno.dll
